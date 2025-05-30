@@ -1,0 +1,162 @@
+body {
+	background-color: #98002E;
+}
+
+body.Accolades {
+	background-color: #552583;
+}
+
+body.Heat {
+	background-color: #98002E;
+}
+
+body.Lakers {
+	background-color: #FDB927;
+}
+
+body.Stand {
+	background-color: #552583;
+}
+
+body.Cleveland {
+	background-color: #860038;
+}
+
+body.Home {
+	img {
+		width: 50%;
+	}
+}
+
+body.Lakers {
+	main {
+		background-color:#552583;
+		color: #FFFFFF;
+	}
+}
+
+body.Cleveland {
+	main {
+		background-color: #FDBB30;
+		color:#000000;
+	}
+}
+
+body.Stand {
+	main {
+		background-color: #FDB927;
+		color:#000000;
+	}
+}
+
+body.Heat {
+	main {
+		background-color:#F9A01B;
+		color: #000000;
+	}
+}
+
+#container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Career of lebron sec*/
+header {
+	font-family: Palatino;
+	font-size: 2.5em;
+	margin-top: 0.2em;
+	margin-bottom: 0.3em;
+	text-align: center;
+	padding: 0.2em;
+	color: #000000;
+	background-color:#F9A01B;
+	margin-left: 15em;
+	margin-right: 15em;
+
+	border-radius: 1em;
+}
+
+#banner {
+	text-align: center;
+}
+
+img {
+		width: 45%;
+	
+}
+
+nav {
+	font-family: Lucida, "Times New Roman", serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+
+nav ul{
+		padding: 0;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+
+		
+}
+
+
+nav li {
+		
+		border-radius: 2em;
+		list-style-type: none;
+		margin: 0.3em;
+		padding:0.4em;
+}
+
+nav li a {
+		color: #FFFFFF;
+		text-decoration: none;
+		
+}
+
+nav li { 
+		display: inline;
+		float: center;
+		
+}
+
+main {
+	display: block;
+	font-family: Georgia, "Times New Roman", sans-serif;
+	font-size: 1em;
+	margin-top: 0.5em;
+	padding: 0.5em;
+	border-radius: 0.5em;
+	background-color: #FFFFFF;
+	text-align: left;
+	margin-left: 20em;
+	margin-right: 20em;
+}
+
+
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+}
+
+nav li a:link {
+	color:#FFFFFF;
+}
+
+nav li a:visited {
+	color:#ff0000;
+}
+
+nav li a:hover {
+	color:#FFD700;
+	font-style: italic;
+}
+
+
+
